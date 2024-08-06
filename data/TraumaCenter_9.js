@@ -1,0 +1,1 @@
+var json_TraumaCenter_9 = {"type":"FeatureCollection","name":"TraumaCenter_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","name":"Anbukhaireni"},"geometry":{"type":"Point","coordinates":[84.555898632208994,27.888714856188628]}}]}
